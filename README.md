@@ -9,6 +9,7 @@
 <p>
 Jumlah kamar, luas, letak dan tinggi bangunan bisa divisualisasikan. sehingga menjadi peuang besar di bidang ekonomi dan bisnis. bahkan bisa dikembang untuk membuat e-commerce dengan memanfaatkan teknologi AR, misal ingin membeli lemari, meja, kursi   barang bisa dicek apakah muat atau tidak jika di letakkan di rumah atau ruangan tertentu tanpa datang ke toko atau mengukur secara langsung ke toko. </p>
 
+[Demo aplikasi AR bisa dilihat disini](https://www.youtube.com/watch?v=zVN_Pc-Ytuw&fbclid=IwAR2SqQDi8dPNqopRiAhiGDnK78bTtufue6hKz9tRb1nuxbU9Buwv-6T3X-4)
 
 <b>NOTE : Bantu Like, comment dan share. review ini juga sebagai nilai untuk ujian saya, terima kasih banyak</b>
 
